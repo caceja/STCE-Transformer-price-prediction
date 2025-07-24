@@ -2,7 +2,7 @@
 
 This repository contains multiple time‑series forecasting pipelines for daily wholesale price data, using various deep‑learning architectures:
 
-- **STCE**: Transformer + CNN  
+- **STCE**: Transformer + CNN + Remove Positional Encoding 
 - **TCE**: Transformer + CNN + Positional Encoding + MLP  
 - **STLE**: Transformer + LSTM  
 - **TFE**: Transformer + Feed‑Forward (FFN)  
