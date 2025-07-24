@@ -37,6 +37,12 @@ Each generated Excel workbook (`<Crop>_<Pipeline>_results.xlsx`) contains one sh
 - **Predicted**: model’s forecasts  
 - **RMSE**, **MAE**, **MAPE**: evaluation metrics  
 
+## 📊 Example Results
+
+Here’s how our STCE model’s cucumber‑price forecast looks:
+
+![Comparison of time consume and RMSE of all the models](images/result.png)
+
 ## 🔗 References
 -  J. Li et al., *‘‘Fast and accurate gas turbine emission prediction based on a light and enhanced Transformer model* (2024)
 - Vaswani et al., *Attention Is All You Need* (2017)  
