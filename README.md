@@ -38,10 +38,10 @@ Each generated Excel workbook (`<Crop>_<Pipeline>_results.xlsx`) contains one sh
 - **RMSE**, **MAE**, **MAPE**: evaluation metrics  
 
 ## 🔗 References
-
+-  J. Li et al., *‘‘Fast and accurate gas turbine emission prediction based on a light and enhanced Transformer model* (2024)
 - Vaswani et al., *Attention Is All You Need* (2017)  
-- Hochreiter & Schmidhuber, *Long Short‑Term Memory* (1997)  
-- Various tutorials for Conv1D, FFN, and positional encoding  
+
+
 
 ---
 
