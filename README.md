@@ -46,3 +46,12 @@ Each generated Excel workbook (`<Crop>_<Pipeline>_results.xlsx`) contains one sh
 ---
 
 Feel free to open an issue or submit a PR if you need help extending these pipelines to new crops or architectures!
+## 📑 Research Paper
+
+You can read the full paper on ResearchGate:
+
+[![ResearchGate](https://www.researchgate.net/publication/391554667_Computationally_Efficient_Single_Layer_Transformer_Convolutional_Encoder_for_Accurate_Price_Prediction_of_Agriculture_Commodities)
+
+Or click here:
+
+🔗 [Go to my paper on ResearchGate](https://www.researchgate.net/publication/391554667_Computationally_Efficient_Single_Layer_Transformer_Convolutional_Encoder_for_Accurate_Price_Prediction_of_Agriculture_Commodities)
