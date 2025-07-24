@@ -37,9 +37,9 @@ Each generated Excel workbook (`<Crop>_<Pipeline>_results.xlsx`) contains one sh
 - **Predicted**: model’s forecasts  
 - **RMSE**, **MAE**, **MAPE**: evaluation metrics  
 
-## 📊 Example Results
+## 📊 Example ResultsS
 
-Here’s how our STCE model’s cucumber‑price forecast looks:
+Here’s how our STCE model’s Comparison of time consume and RMSE with all the models looks:
 
 ![Comparison of time consume and RMSE of all the models](images/result.png)
 
