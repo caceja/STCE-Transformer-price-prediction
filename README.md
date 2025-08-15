@@ -13,21 +13,7 @@ Each pipeline reads one or more `*_FillKNN.xlsx` files (raw, KNN‑filled datase
 
 ---
 
-## 📂 Repository Structure
 
-├── README.md
-├── requirements.txt
-├── data
-│ └── raw
-│ ├── Cucumber_FillKNN.xlsx
-│ ├── LongBean_FillKNN.xlsx
-│ ├── Tomato_FillKNN.xlsx
-│ └── KubisBulat_FillKNN.xlsx
-├── outputs
-│ ├── Cucumber_STCE_results.xlsx
-│ ├── Tomato_LSTM_results.xlsx
-│ └── … (one file per crop & pipeline)
-└── AllModelCode.ipynb ← single notebook containing all 6 pipelines
 
 ## 📈 Outputs
 
@@ -37,7 +23,7 @@ Each generated Excel workbook (`<Crop>_<Pipeline>_results.xlsx`) contains one sh
 - **Predicted**: model’s forecasts  
 - **RMSE**, **MAE**, **MAPE**: evaluation metrics  
 
-## 📊 Example ResultsS
+## 📊 Example Results
 
 Here’s how our STCE model’s Comparison of time consume and RMSE with all the models looks:
 
@@ -54,10 +40,6 @@ Here’s how our STCE model’s Comparison of time consume and RMSE with all the
 Feel free to open an issue or submit a PR if you need help extending these pipelines to new crops or architectures!
 ## 📑 Research Paper
 
-You can read the full paper on ResearchGate:
-
-[![ResearchGate](https://www.researchgate.net/publication/391554667_Computationally_Efficient_Single_Layer_Transformer_Convolutional_Encoder_for_Accurate_Price_Prediction_of_Agriculture_Commodities)
-
-Or click here:
+You can read the full paper on ResearchGate click here:
 
 🔗 [Go to my paper on ResearchGate](https://www.researchgate.net/publication/391554667_Computationally_Efficient_Single_Layer_Transformer_Convolutional_Encoder_for_Accurate_Price_Prediction_of_Agriculture_Commodities)
